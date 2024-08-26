@@ -1,0 +1,214 @@
+body{
+    text-transform: capitalize;
+}
+#suits{
+    color:rgb(238, 227, 124);
+}
+.card img{
+    height:40vh;
+    width:100px
+}
+.navbar-brand:hover{
+color:gold
+}
+
+.nav-item a:hover{
+    color:gold;
+    
+}
+.nav-item{
+    color:gold;
+}
+.vi{
+border-radius: 60px;
+}
+#suits button a{
+    display:flex;
+    justify-content: center;
+    place-items: center;
+    text-decoration: none;
+
+}
+.col:hover{
+   box-shadow:  0px 0px 10px 5px rgba(0,0,0,0.5);
+}
+.col{
+    border:1px solid black;
+    cursor: pointer;
+
+}
+.col img{
+    transition: 0.9s;
+    cursor: pointer;
+    width:100%;
+    
+}
+.col img:hover{
+    transform: scale(1.1);
+}
+span{
+    color:gold;
+    font-family: serif;
+}
+.h{
+    height:40vh;
+    border-radius: 30px;
+}
+.arrivals {
+    margin-top: 200px;
+}
+.g a{
+    color:black;
+}
+.gf{
+    color:gold;
+}
+.keep{
+    background: url(men\ \(2\).jpg);
+    background-size: cover;
+    height:50vh;
+    width:300px;
+    gap:50px;
+
+}
+.jo{
+    background: url(men\ \(1\).jpg);
+    height:50vh;
+    width:300px
+}
+.cat{
+    mix-blend-mode: multiply;
+}
+.banner-box {
+    background: url(men\ \(1\).jpg);
+    background-size:cover;
+    width:500px;
+    height:70vh;
+    background-position: center;
+
+
+}
+
+#banner .box2{
+    background: url(men\ \(2\).jpg);
+    background-size:cover;
+    width:400px;
+    height:70vh;
+    background-position: center;
+}
+#banner {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px; 
+  }
+.banner-box h2{
+    color:rgb(175, 161, 83);
+    font-family: serif;
+}
+.banner-box p{
+    color:rgb(196, 180, 92);
+    font-family: serif;
+    font-size: 20px;
+}
+.banner-box button{
+    color:gold;
+    font-family: serif;
+    border-color: goldenrod;
+}
+.banner-box h3{
+    color:rgb(172, 158, 83);
+    font-family: serif;
+}
+.email h1{
+    color:gold;
+}
+form{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer a{
+    text-decoration: none;
+    font-size: 20px;
+    display:flex;
+    color:rgb(24, 23, 23);
+    font-weight: 100;
+    line-height: 50px;
+}
+footer img{
+    width:200px
+}
+#socials a{
+    color:gold;
+    font-size: 20px;
+    gap:50px;
+    transition: 0.5s;
+}
+#socials a:hover{
+    color:rgb(61, 4, 4);
+    transform: scale(1.2);
+}
+
+#pagination{
+   text-align: center;
+    gap:30px;
+    font-size:20px
+}
+#pro-details .single-pro-image{
+    width: 40%;
+}
+.small-image-group{
+    display:flex;
+    justify-content: center;
+    gap:30px
+}
+.small-image-col{
+    flex-basis: 24%;
+    cursor:pointer
+}
+#pro-details {
+    display:flex;
+}
+#pro-details .single-pro-details{
+    width:50%;
+}
+#pro-details .single-pro-details h4{
+    font-size:26px;
+}
+#pro-details .single-pro-details input{
+ width:70px;
+ height:47px;
+}
+#pro-details .single-pro-details input:focus{
+    outline:none;
+}
+#pro-details .single-pro-details p{
+    line-height: 25px;
+}
+#elite a{
+    color:cyan;
+    text-decoration: none;
+}
+.heart a{
+    color:cyan;
+    text-decoration: none;
+}
+.fine a{
+    color:cyan;
+    text-decoration: none;
+}
+@media (max-width:500px) {
+#pro-details{
+    display: flex;
+    flex-direction: column;
+    
+}
+}
