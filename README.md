@@ -39,4 +39,4 @@ During my internship at **Real AI Dynamics**, I worked on real-world application
 
 ## 📊 GitHub Stats:
 
-![Idowu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Idowu's GitHub stats](https://github-readme-stats.vercel.app/api?username=idowest042&show_icons=true&theme=radical)
