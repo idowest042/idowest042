@@ -9,6 +9,8 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** (Mo
 I love building full-fledged web applications that are fast, responsive, and user-friendly.
 
 🌟 **Projects I've built:**
+- 🏡 Real Estate Website with an admin panel for one of the largest Real Estate company
+- 💻 Netflix Clone 
 - 🛒 E-commerce website with an admin panel
 - 💬 Real-time Chat Application
 - 🍔 Food Delivery platform with an admin dashboard
