@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Idowu Joseph!
 
-### AI Full-Stack Developer | MERN Stack Specialist | Building Intelligent Web Solutions
+### AI Full-Stack Developer | Full Stack Specialist | Building Intelligent Web Solutions
 
 I'm passionate about creating **AI-powered web applications** that solve real problems. With 2 years of experience, I specialize in integrating cutting-edge AI technologies with modern full-stack development to build scalable, production-ready solutions.
 
@@ -62,6 +62,9 @@ Live messaging app with private chats, user presence tracking, and **Socket.IO**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
 
 **AI/ML & APIs:**  
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
